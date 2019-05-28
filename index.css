@@ -20,3 +20,4 @@ body {
 /* add the .bigItem class */
 .bigItem {
   grid-area: footer-start / 1 / footer-end / 4
+}
